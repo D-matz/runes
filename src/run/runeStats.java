@@ -508,7 +508,7 @@ public class runeStats
 						if(k<2)System.out.print(",");
 					}
 					System.out.println("),cex=1,pos=3)");
-					System.out.println("dev.off()");
+					System.out.println("dev.off()"); //need to remove limit on number of lines in console to copy everything
 				}
 				runeStream.println(table);
 			}
