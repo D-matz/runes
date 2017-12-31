@@ -344,30 +344,6 @@ public class enchanterTradeOffs
 		}
 		leagueStream.close();
 	}
-
-/*	public static String getRequest (String s)
-	{
-		try
-		{
-		 Thread.sleep(900);
-		 URL myurl = new URL(s+key);
-		 HttpsURLConnection con = (HttpsURLConnection)myurl.openConnection();
-		 InputStream ins = con.getInputStream();
-		 InputStreamReader isr = new InputStreamReader(ins);
-		 BufferedReader in = new BufferedReader(isr);
-		 String info;
-		 String r="";
-		 while ((info = in.readLine()) != null)
-		 {
-			 r=r+info;
-		 }
-		 return r;
-		}catch(Exception e)
-		{
-			System.out.println("retrying: "+s);
-			return getRequest(s);
-		}
-	}*/
 	
 	public static String getRequest (String s)
 	{
