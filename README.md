@@ -2,6 +2,7 @@
 gathering and processing enchanter rune statistics
 
 I'm not to used to publishing/documenting projects but here's an outline:
+
   EnchanterTradeOffs
     getLeagues
       get tier and ids in league of an id
