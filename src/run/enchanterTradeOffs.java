@@ -373,7 +373,7 @@ public class enchanterTradeOffs
 	{
 		try
 		{
-		 Thread.sleep(150);
+		 Thread.sleep(900);
 		 URL myurl = new URL(s+key);
 		 HttpsURLConnection con = (HttpsURLConnection)myurl.openConnection();
 		 InputStream ins = con.getInputStream();
