@@ -4,12 +4,13 @@ gathering and processing enchanter rune statistics
 I'm not to used to publishing/documenting projects but here's an outline:
 
   EnchanterTradeOffs
-    getLeagues
+  
+    -getLeagues
       get tier and ids in league of an id
-    getMatchHistories
+    -getMatchHistories
       get the games played by accounts in leagues
       in hindsight this could have been a problem if the samples are too small because it's likely to get multiple games from the same player
-    getStats
+    -getStats
       get game stats
       ended up only using diamond stats
   RuneStats
