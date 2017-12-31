@@ -29,5 +29,5 @@ I'm not to used to publishing/documenting projects but here's an outline:
     print graphs for champs
     
 I modified files as I went and unfortunately I'm not familiar with github so I didn't put them in a repository until now.
-It turned out sort of like what I had in mind, presentation: https://www.youtube.com/watch?v=OWv1IrI7qP4
-If you have any questions, or better yet suggestions for how to do this stuff because I'm sure there was a lot I should have done differently, please email davidmatz@uchicago.edu
+It turned out sort of like what I had in mind, presentation: https://www.youtube.com/watch?v=OWv1IrI7qP4.
+If you have any questions, or better yet suggestions for how to do this stuff because I'm sure there was a lot I should have done differently, please email davidmatz@uchicago.edu.
